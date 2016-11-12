@@ -1,0 +1,1 @@
+li,ul{margin:0;padding:0}.wel{width:100%;height:100vh;position:relative;overflow:hidden}.wel ul{width:400%;position:absolute;left:0}@media screen and (min-width:960px){body{background-color:#deead8}.wel{width:450px;margin:auto}}.wel ul li{width:25%;list-style:none;float:left;overflow:hidden}.wel ul li>img{width:100%;height:100%}
